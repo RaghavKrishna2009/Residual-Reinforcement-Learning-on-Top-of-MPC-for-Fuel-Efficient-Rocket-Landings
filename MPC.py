@@ -19,10 +19,10 @@ class ResidualActor(Model):
 
     def call(self, state):
         '''
-        Compute residual action from state.
+        Compute residual action from current state.
         
-        :param state: Current state tensor
-        :return: Tanh-activated action correction
+        :param state: Current state (tensor)
+        :return: Tanh-activated action correction (correction number)
         '''
         x = self.dense1(state)
         x = self.dense2(x)
@@ -89,8 +89,8 @@ def compute_mpc_action(state):
     '''
     Solve MPC optimization for given state.
     
-    :param state: Current 6D state vector
-    :return: Optimal control action (2D array)
+    :param state: Current 6D state vector - intial physics params
+    :return: Optimal control action (2D numpy array)
     '''
     try:
         X = ca.SX.sym('X', 6, N + 1)
@@ -164,7 +164,7 @@ def compute_mpc_action(state):
 
 def compute_returns(rewards, gamma):
     '''
-    Calculate normalized discounted returns.
+    Calculate normalized discounted returns (RL).
     
     :param rewards: List of episode rewards
     :param gamma: Discount factor
