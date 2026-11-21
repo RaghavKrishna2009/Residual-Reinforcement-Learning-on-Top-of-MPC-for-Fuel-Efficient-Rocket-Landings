@@ -404,9 +404,15 @@ should not be over-read.
 
 One thing anyone re-running this must know: **λ = 3 is identified as the strongest cell by comparing
 the five cells on the `eval` episodes**, which are the same episodes its margins are then quoted
-against, so +0.66 at wind 0 is a best-of-five. That is why a sixth episode set exists. λ = 3 was
-re-flown on it with all 15 seeds and clears the bar at all five winds there too, worst margin +0.49
-(`final_confirmation.csv`). The selection effect is real and the result survives it.
+against, so +0.66 at wind 0 is a best-of-five. That is why a sixth episode set exists. λ = 3 and λ = 1.5
+were each re-flown on it with all 15 seeds, 63,000 episodes per re-flight across all controllers.
+λ = 3 clears the bar at all five winds there too, worst margin +0.49. λ = 1.5 clears it at four and
+falls 1.02 below at wind 20. The selection effect is real and λ = 3's result survives it.
+
+The shipped `final_confirmation.csv` is the λ = 1.5 re-flight; it overwrote the λ = 3 one, which is
+why the λ = 3 reserved rates quoted in the paper cannot be recomputed from the files here. The bar
+in both runs is the same, since the non-residual controllers were re-flown on the same episode set,
+and that bar is reproducible from this file.
 
 What does not survive is the wider claim the grid was making. At 5 seeds per cell, four of five cells
 cleared the bar; at 15 seeds, **two do**. λ = 1 and λ = 5 both fall below it at wind 0 once the extra
