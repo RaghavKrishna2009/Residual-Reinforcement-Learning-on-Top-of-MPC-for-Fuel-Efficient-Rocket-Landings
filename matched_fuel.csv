@@ -1,0 +1,296 @@
+cell,wind,view,controller,episodes,dv
+Heuristic,0,mean over landed,Heuristic,300,31.6550
+Heuristic,0,per success,Heuristic,300,34.6714
+Heuristic,5,mean over landed,Heuristic,300,35.4885
+Heuristic,5,per success,Heuristic,300,38.7628
+Heuristic,10,mean over landed,Heuristic,300,37.3797
+Heuristic,10,per success,Heuristic,300,46.8290
+Heuristic,15,mean over landed,Heuristic,300,34.0854
+Heuristic,15,per success,Heuristic,300,59.4978
+Heuristic,20,mean over landed,Heuristic,300,35.6552
+Heuristic,20,per success,Heuristic,300,89.5661
+MPC,0,mean over landed,MPC,1000,36.0886
+MPC,0,per success,MPC,1000,36.8870
+MPC,5,mean over landed,MPC,1000,38.0787
+MPC,5,per success,MPC,1000,40.3991
+MPC,10,mean over landed,MPC,1000,42.8661
+MPC,10,per success,MPC,1000,47.8656
+MPC,15,mean over landed,MPC,1000,48.7450
+MPC,15,per success,MPC,1000,64.4434
+MPC,20,mean over landed,MPC,1000,44.9786
+MPC,20,per success,MPC,1000,85.0797
+PPO F1,0,mean over landed,PPO F1,1500,42.1787
+PPO F1,0,per success,PPO F1,1500,44.5081
+PPO F1,5,mean over landed,PPO F1,1500,42.3801
+PPO F1,5,per success,PPO F1,1500,46.1189
+PPO F1,10,mean over landed,PPO F1,1500,42.4759
+PPO F1,10,per success,PPO F1,1500,46.1462
+PPO F1,15,mean over landed,PPO F1,1500,41.7241
+PPO F1,15,per success,PPO F1,1500,50.4997
+PPO F1,20,mean over landed,PPO F1,1500,40.7469
+PPO F1,20,per success,PPO F1,1500,59.5502
+PPO F2,0,mean over landed,PPO F2,1500,34.6555
+PPO F2,0,per success,PPO F2,1500,37.1329
+PPO F2,5,mean over landed,PPO F2,1500,35.1278
+PPO F2,5,per success,PPO F2,1500,38.2340
+PPO F2,10,mean over landed,PPO F2,1500,36.4579
+PPO F2,10,per success,PPO F2,1500,39.0822
+PPO F2,15,mean over landed,PPO F2,1500,37.3137
+PPO F2,15,per success,PPO F2,1500,43.6106
+PPO F2,20,mean over landed,PPO F2,1500,38.3364
+PPO F2,20,per success,PPO F2,1500,51.7639
+PPO F3,0,mean over landed,PPO F3,1500,35.6981
+PPO F3,0,per success,PPO F3,1500,40.6734
+PPO F3,5,mean over landed,PPO F3,1500,36.2177
+PPO F3,5,per success,PPO F3,1500,40.9371
+PPO F3,10,mean over landed,PPO F3,1500,37.7520
+PPO F3,10,per success,PPO F3,1500,43.2516
+PPO F3,15,mean over landed,PPO F3,1500,38.8637
+PPO F3,15,per success,PPO F3,1500,46.1068
+PPO F3,20,mean over landed,PPO F3,1500,39.6686
+PPO F3,20,per success,PPO F3,1500,54.3389
+PPO F4,0,mean over landed,PPO F4,1500,35.0374
+PPO F4,0,per success,PPO F4,1500,40.5106
+PPO F4,5,mean over landed,PPO F4,1500,35.9106
+PPO F4,5,per success,PPO F4,1500,41.1763
+PPO F4,10,mean over landed,PPO F4,1500,38.4426
+PPO F4,10,per success,PPO F4,1500,43.8075
+PPO F4,15,mean over landed,PPO F4,1500,40.5799
+PPO F4,15,per success,PPO F4,1500,48.0744
+PPO F4,20,mean over landed,PPO F4,1500,41.6483
+PPO F4,20,per success,PPO F4,1500,56.5100
+PPO F5,0,mean over landed,PPO F5,1500,39.5320
+PPO F5,0,per success,PPO F5,1500,50.3334
+PPO F5,5,mean over landed,PPO F5,1500,39.9157
+PPO F5,5,per success,PPO F5,1500,50.3937
+PPO F5,10,mean over landed,PPO F5,1500,42.3691
+PPO F5,10,per success,PPO F5,1500,51.7583
+PPO F5,15,mean over landed,PPO F5,1500,43.8559
+PPO F5,15,per success,PPO F5,1500,55.5229
+PPO F5,20,mean over landed,PPO F5,1500,43.9428
+PPO F5,20,per success,PPO F5,1500,64.7797
+RES lam1,0,mean over landed,RES lam1,4500,37.9329
+RES lam1,0,per success,RES lam1,4500,38.9258
+RES lam1,5,mean over landed,RES lam1,4500,37.9322
+RES lam1,5,per success,RES lam1,4500,39.1057
+RES lam1,10,mean over landed,RES lam1,4500,38.2033
+RES lam1,10,per success,RES lam1,4500,40.6257
+RES lam1,15,mean over landed,RES lam1,4500,38.5252
+RES lam1,15,per success,RES lam1,4500,44.2913
+RES lam1,20,mean over landed,RES lam1,4500,39.7546
+RES lam1,20,per success,RES lam1,4500,54.0382
+RES lam1.5,0,mean over landed,RES lam1.5,4500,37.3364
+RES lam1.5,0,per success,RES lam1.5,4500,37.8519
+RES lam1.5,5,mean over landed,RES lam1.5,4500,37.4452
+RES lam1.5,5,per success,RES lam1.5,4500,38.2913
+RES lam1.5,10,mean over landed,RES lam1.5,4500,37.8724
+RES lam1.5,10,per success,RES lam1.5,4500,39.3486
+RES lam1.5,15,mean over landed,RES lam1.5,4500,38.6462
+RES lam1.5,15,per success,RES lam1.5,4500,43.8806
+RES lam1.5,20,mean over landed,RES lam1.5,4500,39.6787
+RES lam1.5,20,per success,RES lam1.5,4500,54.8270
+RES lam2,0,mean over landed,RES lam2,4500,37.8881
+RES lam2,0,per success,RES lam2,4500,38.6254
+RES lam2,5,mean over landed,RES lam2,4500,38.0414
+RES lam2,5,per success,RES lam2,4500,39.3659
+RES lam2,10,mean over landed,RES lam2,4500,38.6340
+RES lam2,10,per success,RES lam2,4500,40.9301
+RES lam2,15,mean over landed,RES lam2,4500,39.4500
+RES lam2,15,per success,RES lam2,4500,45.8006
+RES lam2,20,mean over landed,RES lam2,4500,40.5600
+RES lam2,20,per success,RES lam2,4500,56.5657
+RES lam2.5,0,mean over landed,RES lam2.5,4500,39.4312
+RES lam2.5,0,per success,RES lam2.5,4500,39.7795
+RES lam2.5,5,mean over landed,RES lam2.5,4500,39.6062
+RES lam2.5,5,per success,RES lam2.5,4500,40.3423
+RES lam2.5,10,mean over landed,RES lam2.5,4500,40.4772
+RES lam2.5,10,per success,RES lam2.5,4500,42.1776
+RES lam2.5,15,mean over landed,RES lam2.5,4500,41.1131
+RES lam2.5,15,per success,RES lam2.5,4500,46.8345
+RES lam2.5,20,mean over landed,RES lam2.5,4500,42.3603
+RES lam2.5,20,per success,RES lam2.5,4500,57.5024
+RES lam3,0,mean over landed,RES lam3,4500,40.2304
+RES lam3,0,per success,RES lam3,4500,40.6515
+RES lam3,5,mean over landed,RES lam3,4500,40.3701
+RES lam3,5,per success,RES lam3,4500,41.1460
+RES lam3,10,mean over landed,RES lam3,4500,40.9616
+RES lam3,10,per success,RES lam3,4500,42.8774
+RES lam3,15,mean over landed,RES lam3,4500,41.3053
+RES lam3,15,per success,RES lam3,4500,46.5684
+RES lam3,20,mean over landed,RES lam3,4500,42.0474
+RES lam3,20,per success,RES lam3,4500,56.3795
+RES lam3.5,0,mean over landed,RES lam3.5,4500,38.4988
+RES lam3.5,0,per success,RES lam3.5,4500,39.2307
+RES lam3.5,5,mean over landed,RES lam3.5,4500,39.0064
+RES lam3.5,5,per success,RES lam3.5,4500,40.0502
+RES lam3.5,10,mean over landed,RES lam3.5,4500,40.2837
+RES lam3.5,10,per success,RES lam3.5,4500,42.2896
+RES lam3.5,15,mean over landed,RES lam3.5,4500,42.0200
+RES lam3.5,15,per success,RES lam3.5,4500,48.0726
+RES lam3.5,20,mean over landed,RES lam3.5,4500,42.8872
+RES lam3.5,20,per success,RES lam3.5,4500,60.0004
+RES lam4,0,mean over landed,RES lam4,4500,38.0588
+RES lam4,0,per success,RES lam4,4500,40.1688
+RES lam4,5,mean over landed,RES lam4,4500,38.5169
+RES lam4,5,per success,RES lam4,4500,41.0157
+RES lam4,10,mean over landed,RES lam4,4500,39.9380
+RES lam4,10,per success,RES lam4,4500,43.9225
+RES lam4,15,mean over landed,RES lam4,4500,41.5072
+RES lam4,15,per success,RES lam4,4500,49.0118
+RES lam4,20,mean over landed,RES lam4,4500,42.3869
+RES lam4,20,per success,RES lam4,4500,61.3942
+RES lam4.5,0,mean over landed,RES lam4.5,4500,38.4677
+RES lam4.5,0,per success,RES lam4.5,4500,39.2553
+RES lam4.5,5,mean over landed,RES lam4.5,4500,39.1228
+RES lam4.5,5,per success,RES lam4.5,4500,40.5004
+RES lam4.5,10,mean over landed,RES lam4.5,4500,40.7349
+RES lam4.5,10,per success,RES lam4.5,4500,43.3107
+RES lam4.5,15,mean over landed,RES lam4.5,4500,42.3760
+RES lam4.5,15,per success,RES lam4.5,4500,48.2803
+RES lam4.5,20,mean over landed,RES lam4.5,4500,43.4652
+RES lam4.5,20,per success,RES lam4.5,4500,60.5665
+RES lam5,0,mean over landed,RES lam5,4500,38.2889
+RES lam5,0,per success,RES lam5,4500,39.2624
+RES lam5,5,mean over landed,RES lam5,4500,38.8959
+RES lam5,5,per success,RES lam5,4500,39.9868
+RES lam5,10,mean over landed,RES lam5,4500,40.3871
+RES lam5,10,per success,RES lam5,4500,42.3287
+RES lam5,15,mean over landed,RES lam5,4500,41.8276
+RES lam5,15,per success,RES lam5,4500,47.0832
+RES lam5,20,mean over landed,RES lam5,4500,42.9952
+RES lam5,20,per success,RES lam5,4500,58.5394
+RES lam1,0,matched,MPC,289,35.4930
+RES lam1,0,matched,PPO F2,289,34.5591
+RES lam1,0,matched,RES lam1,289,37.8396
+RES lam1,5,matched,MPC,271,37.1009
+RES lam1,5,matched,PPO F2,271,34.9427
+RES lam1,5,matched,RES lam1,271,37.7381
+RES lam1,10,matched,MPC,258,41.5597
+RES lam1,10,matched,PPO F2,258,36.3831
+RES lam1,10,matched,RES lam1,258,38.0713
+RES lam1,15,matched,MPC,177,46.1417
+RES lam1,15,matched,PPO F2,177,36.6168
+RES lam1,15,matched,RES lam1,177,37.8679
+RES lam1,20,matched,MPC,96,41.2189
+RES lam1,20,matched,PPO F2,96,37.3930
+RES lam1,20,matched,RES lam1,96,37.8214
+RES lam1.5,0,matched,MPC,289,35.4930
+RES lam1.5,0,matched,PPO F2,289,34.5591
+RES lam1.5,0,matched,RES lam1.5,289,37.2208
+RES lam1.5,5,matched,MPC,272,37.1277
+RES lam1.5,5,matched,PPO F2,272,34.9696
+RES lam1.5,5,matched,RES lam1.5,272,37.2633
+RES lam1.5,10,matched,MPC,260,41.3981
+RES lam1.5,10,matched,PPO F2,260,36.3238
+RES lam1.5,10,matched,RES lam1.5,260,37.7229
+RES lam1.5,15,matched,MPC,182,45.9642
+RES lam1.5,15,matched,PPO F2,182,36.8474
+RES lam1.5,15,matched,RES lam1.5,182,37.9233
+RES lam1.5,20,matched,MPC,92,40.5776
+RES lam1.5,20,matched,PPO F2,92,37.1719
+RES lam1.5,20,matched,RES lam1.5,92,37.1428
+RES lam2,0,matched,MPC,289,35.4930
+RES lam2,0,matched,PPO F2,289,34.5591
+RES lam2,0,matched,RES lam2,289,37.7510
+RES lam2,5,matched,MPC,271,36.9953
+RES lam2,5,matched,PPO F2,271,34.9570
+RES lam2,5,matched,RES lam2,271,37.8313
+RES lam2,10,matched,MPC,257,41.1695
+RES lam2,10,matched,PPO F2,257,36.3102
+RES lam2,10,matched,RES lam2,257,38.4048
+RES lam2,15,matched,MPC,179,45.9539
+RES lam2,15,matched,PPO F2,179,36.8288
+RES lam2,15,matched,RES lam2,179,38.6298
+RES lam2,20,matched,MPC,90,40.9385
+RES lam2,20,matched,PPO F2,90,36.6815
+RES lam2,20,matched,RES lam2,90,38.0470
+RES lam2.5,0,matched,MPC,289,35.4930
+RES lam2.5,0,matched,PPO F2,289,34.5591
+RES lam2.5,0,matched,RES lam2.5,289,39.3133
+RES lam2.5,5,matched,MPC,272,37.1277
+RES lam2.5,5,matched,PPO F2,272,34.9696
+RES lam2.5,5,matched,RES lam2.5,272,39.4232
+RES lam2.5,10,matched,MPC,258,41.2505
+RES lam2.5,10,matched,PPO F2,258,36.3571
+RES lam2.5,10,matched,RES lam2.5,258,40.2835
+RES lam2.5,15,matched,MPC,181,46.4557
+RES lam2.5,15,matched,PPO F2,181,36.9551
+RES lam2.5,15,matched,RES lam2.5,181,40.5799
+RES lam2.5,20,matched,MPC,92,40.9667
+RES lam2.5,20,matched,PPO F2,92,37.1181
+RES lam2.5,20,matched,RES lam2.5,92,39.9859
+RES lam3,0,matched,MPC,289,35.4930
+RES lam3,0,matched,PPO F2,289,34.5591
+RES lam3,0,matched,RES lam3,289,40.0935
+RES lam3,5,matched,MPC,272,37.1277
+RES lam3,5,matched,PPO F2,272,34.9696
+RES lam3,5,matched,RES lam3,272,40.1659
+RES lam3,10,matched,MPC,258,41.3816
+RES lam3,10,matched,PPO F2,258,36.3946
+RES lam3,10,matched,RES lam3,258,40.8454
+RES lam3,15,matched,MPC,182,46.2705
+RES lam3,15,matched,PPO F2,182,36.8896
+RES lam3,15,matched,RES lam3,182,40.7165
+RES lam3,20,matched,MPC,95,41.8662
+RES lam3,20,matched,PPO F2,95,37.3032
+RES lam3,20,matched,RES lam3,95,40.0142
+RES lam3.5,0,matched,MPC,289,35.4930
+RES lam3.5,0,matched,PPO F2,289,34.5591
+RES lam3.5,0,matched,RES lam3.5,289,38.3525
+RES lam3.5,5,matched,MPC,271,37.1160
+RES lam3.5,5,matched,PPO F2,271,34.9519
+RES lam3.5,5,matched,RES lam3.5,271,38.7395
+RES lam3.5,10,matched,MPC,260,41.3191
+RES lam3.5,10,matched,PPO F2,260,36.3562
+RES lam3.5,10,matched,RES lam3.5,260,40.0428
+RES lam3.5,15,matched,MPC,181,45.9452
+RES lam3.5,15,matched,PPO F2,181,36.8874
+RES lam3.5,15,matched,RES lam3.5,181,41.2893
+RES lam3.5,20,matched,MPC,83,40.8770
+RES lam3.5,20,matched,PPO F2,83,37.1010
+RES lam3.5,20,matched,RES lam3.5,83,40.6274
+RES lam4,0,matched,MPC,289,35.4930
+RES lam4,0,matched,PPO F2,289,34.5591
+RES lam4,0,matched,RES lam4,289,37.9045
+RES lam4,5,matched,MPC,272,37.1277
+RES lam4,5,matched,PPO F2,272,34.9696
+RES lam4,5,matched,RES lam4,272,38.2586
+RES lam4,10,matched,MPC,254,41.2764
+RES lam4,10,matched,PPO F2,254,36.2507
+RES lam4,10,matched,RES lam4,254,39.6419
+RES lam4,15,matched,MPC,172,45.5063
+RES lam4,15,matched,PPO F2,172,36.6248
+RES lam4,15,matched,RES lam4,172,40.5047
+RES lam4,20,matched,MPC,87,41.1183
+RES lam4,20,matched,PPO F2,87,37.0781
+RES lam4,20,matched,RES lam4,87,40.2773
+RES lam4.5,0,matched,MPC,289,35.4930
+RES lam4.5,0,matched,PPO F2,289,34.5591
+RES lam4.5,0,matched,RES lam4.5,289,38.3221
+RES lam4.5,5,matched,MPC,272,37.1277
+RES lam4.5,5,matched,PPO F2,272,34.9696
+RES lam4.5,5,matched,RES lam4.5,272,38.8805
+RES lam4.5,10,matched,MPC,259,41.3628
+RES lam4.5,10,matched,PPO F2,259,36.4303
+RES lam4.5,10,matched,RES lam4.5,259,40.4720
+RES lam4.5,15,matched,MPC,185,46.5609
+RES lam4.5,15,matched,PPO F2,185,36.8109
+RES lam4.5,15,matched,RES lam4.5,185,41.4734
+RES lam4.5,20,matched,MPC,85,40.7742
+RES lam4.5,20,matched,PPO F2,85,36.9887
+RES lam4.5,20,matched,RES lam4.5,85,41.1648
+RES lam5,0,matched,MPC,289,35.4930
+RES lam5,0,matched,PPO F2,289,34.5591
+RES lam5,0,matched,RES lam5,289,38.1303
+RES lam5,5,matched,MPC,272,37.1277
+RES lam5,5,matched,PPO F2,272,34.9696
+RES lam5,5,matched,RES lam5,272,38.6360
+RES lam5,10,matched,MPC,255,41.4642
+RES lam5,10,matched,PPO F2,255,36.2967
+RES lam5,10,matched,RES lam5,255,40.2243
+RES lam5,15,matched,MPC,182,46.2278
+RES lam5,15,matched,PPO F2,182,36.7836
+RES lam5,15,matched,RES lam5,182,40.9431
+RES lam5,20,matched,MPC,94,40.5874
+RES lam5,20,matched,PPO F2,94,37.1386
+RES lam5,20,matched,RES lam5,94,40.6782

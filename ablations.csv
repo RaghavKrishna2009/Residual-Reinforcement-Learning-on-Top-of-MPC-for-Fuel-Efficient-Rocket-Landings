@@ -1,0 +1,76 @@
+arm,wind,episodes,landed,landed_pct,dv
+planner as reported,0,200,196,98.00,35.64
+planner as reported,5,200,192,96.00,38.59
+planner as reported,10,200,175,87.50,46.31
+planner as reported,15,200,143,71.50,53.44
+planner as reported,20,200,94,47.00,46.48
+planner horizon 24,0,200,175,87.50,45.82
+planner horizon 24,5,200,168,84.00,48.79
+planner horizon 24,10,200,123,61.50,56.40
+planner horizon 24,15,200,88,44.00,59.42
+planner horizon 24,20,200,48,24.00,50.59
+planner horizon 72,0,200,200,100.00,34.27
+planner horizon 72,5,200,197,98.50,36.81
+planner horizon 72,10,200,188,94.00,40.00
+planner horizon 72,15,200,153,76.50,45.31
+planner horizon 72,20,200,120,60.00,43.26
+planner iterations 1,0,200,199,99.50,36.90
+planner iterations 1,5,200,193,96.50,38.09
+planner iterations 1,10,200,174,87.00,44.39
+planner iterations 1,15,200,140,70.00,48.32
+planner iterations 1,20,200,88,44.00,43.55
+planner iterations 2,0,200,194,97.00,35.80
+planner iterations 2,5,200,191,95.50,37.19
+planner iterations 2,10,200,173,86.50,44.35
+planner iterations 2,15,200,132,66.00,51.08
+planner iterations 2,20,200,96,48.00,47.17
+planner iterations 6,0,200,194,97.00,35.74
+planner iterations 6,5,200,192,96.00,39.44
+planner iterations 6,10,200,174,87.00,42.99
+planner iterations 6,15,200,137,68.50,52.14
+planner iterations 6,20,200,81,40.50,48.12
+planner iterations 8,0,200,197,98.50,35.72
+planner iterations 8,5,200,193,96.50,38.23
+planner iterations 8,10,200,171,85.50,43.51
+planner iterations 8,15,200,138,69.00,50.88
+planner iterations 8,20,200,88,44.00,47.84
+planner replan every 2,0,200,198,99.00,35.47
+planner replan every 2,5,200,191,95.50,38.26
+planner replan every 2,10,200,177,88.50,43.37
+planner replan every 2,15,200,136,68.00,48.82
+planner replan every 2,20,200,99,49.50,48.40
+planner replan every 6,0,200,196,98.00,35.71
+planner replan every 6,5,200,186,93.00,39.45
+planner replan every 6,10,200,169,84.50,46.19
+planner replan every 6,15,200,119,59.50,47.63
+planner replan every 6,20,200,77,38.50,44.17
+planner without engine cut-off,0,200,198,99.00,35.72
+planner without engine cut-off,5,200,189,94.50,37.56
+planner without engine cut-off,10,200,168,84.00,43.93
+planner without engine cut-off,15,200,146,73.00,50.71
+planner without engine cut-off,20,200,83,41.50,47.35
+planner without terminal cost,0,200,0,0.00,
+planner without terminal cost,5,200,0,0.00,
+planner without terminal cost,10,200,0,0.00,
+planner without terminal cost,15,200,0,0.00,
+planner without terminal cost,20,200,5,2.50,74.41
+planner without wind estimator,0,200,198,99.00,34.58
+planner without wind estimator,5,200,192,96.00,36.51
+planner without wind estimator,10,200,167,83.50,43.55
+planner without wind estimator,15,200,120,60.00,45.94
+planner without wind estimator,20,200,66,33.00,43.96
+residual add,0,1000,984,98.40,39.63
+residual add,5,1000,947,94.70,42.14
+residual add,10,1000,850,85.00,50.43
+residual add,15,1000,685,68.50,55.96
+residual add,20,1000,472,47.20,53.55
+residual as reported,0,1000,991,99.10,38.80
+residual as reported,5,1000,990,99.00,39.12
+residual as reported,10,1000,974,97.40,40.00
+residual as reported,15,1000,908,90.80,41.43
+residual as reported,20,1000,716,71.60,43.40
+residual floor0.02,0,1000,978,97.80,38.21
+residual floor0.02,5,1000,978,97.80,38.67
+residual floor0.02,10,1000,963,96.30,39.18
+residual floor0.02,15,1000,861,86.10,40.54
+residual floor0.02,20,1000,686,68.60,42.50
